@@ -49,7 +49,7 @@ a:focus { outline: none; }
 /*Additional Spacing: These are addon classes for manual spacing of elements */
 .module {margin:20px;}
 
-.add-top { margin-top: 40px !important; }
+.add-top { display: block; margin-top: 40px; margin-left: auto; margin-right: auto !important; }
 .remove-top { margin-top: 0 !important; }
 .half-top { margin-top: 15px !important; }
 
